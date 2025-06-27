@@ -42,11 +42,19 @@
 - 🔗 [AWS Lambda Python Automation](https://github.com/yourusername/aws-lambda)
 
 ---
-
 ## 📈 GitHub Stats
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arpitkukadiya&show_icons=true&theme=github_dark" alt="Arpit's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitkukadiya&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arpitkukadiya&theme=github-dark&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arpitkukadiya&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-✨ Always curious, always building. Let's innovate together!
+✨ Always curious, always building. Let's innovate together.  
+🔭 Currently working on: Smart Agriculture App | 🧠 Learning: Cloud & ML
+
