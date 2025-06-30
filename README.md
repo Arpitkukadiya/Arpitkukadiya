@@ -7,7 +7,7 @@
 - 🗃️ Skilled in *Database Administration (DBA)* & *API Integration*
 - 🏫 Student at *[LDRP-ITR](https://ldrp.ac.in)* | MCA Graduate | Tech Lover
 - 📍 Based in *Gujarat, India*
-- 📫 Reach me at: [arpitkukadiya@gmail.com](mailto:arpitkukadiya@gmail.com)
+- 📫 Reach me at: [arpitkukadiya10@gmail.com](mailto:arpitkukadiya10@gmail.com)
 
 ---
 
